@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KsiegarniaApp.App.App" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAACgAEIAAAwAIBAAAAQRAHEACiCAAAhKgAggCgI=</HashCode>
+      <FileName>App\App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KsiegarniaApp.App.Entry" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>App\Entry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KsiegarniaApp.Classes.Admin" Collapsed="true">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAACAAAAAAQCAAAAAgACAAAAAAAgCAA=</HashCode>
+      <FileName>Classes\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KsiegarniaApp.Classes.Klient" Collapsed="true">
+    <Position X="14.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEAAAAAAAAAAQIBAhAACAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Klient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KsiegarniaApp.Classes.Ksiazka" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAGAAAwAAAAAAAAAAQAAIAgAAAAAAA=</HashCode>
+      <FileName>Classes\Ksiazka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KsiegarniaApp.Classes.KsiazkaIlosc" Collapsed="true">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAIAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Classes\KsiazkaIlosc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KsiegarniaApp.Classes.Ksiegarnia" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Ksiegarnia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KsiegarniaApp.Classes.Recenzja" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgQAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Classes\Recenzja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KsiegarniaApp.Classes.Skarbonka" Collapsed="true">
+    <Position X="16.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAACAAA=</HashCode>
+      <FileName>Classes\Skarbonka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KsiegarniaApp.Classes.Uzytkownik" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAQAAAAABAAAAAAAAAAAAAAAAAAIAAAAAE=</HashCode>
+      <FileName>Classes\Uzytkownik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KsiegarniaApp.UI.AppScreen" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAABAAAAgAAAAAAAAAAAAAAAAACAEAAAAAAAggAA=</HashCode>
+      <FileName>UI\AppScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KsiegarniaApp.UI.Menu" Collapsed="true">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIIAAAAAAAAI=</HashCode>
+      <FileName>UI\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KsiegarniaApp.UI.Utility" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAACAABAAAAAAAAAAAAAAAAAAAAAQASAACAA=</HashCode>
+      <FileName>UI\Utility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
